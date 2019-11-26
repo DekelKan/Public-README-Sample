@@ -170,7 +170,6 @@ links to developers that are using your project. You can include links like:
   ## Acknowledgements
    A big thank you to all these wonderful people who helped make this project come to life and keep on making it better!
    
-@all-contributors please add <DekelKan> for <code>
   
   ***Note** - You can also use the [Emoji Key](https://allcontributors.org/docs/en/emoji-key) and [all-contributors bot](https://allcontributors.org/docs/en/bot/overview) to automate acknowledging contributors to your projects.
   

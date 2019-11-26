@@ -1,4 +1,4 @@
-<img src="(Users/dekelkan/Desktop/Work/xscode/Website/Promotion%20Page/GreatREADME.png)">
+![Project Logo](https://raw.githubusercontent.com/jehna/readme-best-practices/master/sample-logo.png)
 
 # Public-README-Sample
 This repository is an example for a good public repository README page.

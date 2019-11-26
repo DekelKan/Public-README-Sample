@@ -1,4 +1,5 @@
-![Logo of the project](/Users/dekelkan/Desktop/Work/xscode/Website/Promotion Page/GreatREADME.png)
+![Logo of the project](/Users/dekelkan/Desktop/Work/xscode/Website/Promotion%20Page/GreatREADME.png)
+
 # Public-README-Sample
 This repository is an example for a good public repository README page.
 

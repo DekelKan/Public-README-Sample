@@ -31,7 +31,7 @@ Check out [Shields.io](https://Shields.io) to use or make your own badges:
 ## Demo / Demo GIF
 Make a GIF with any GIF maker / screen recorder and show users how this project works.
 
-![GIF demo](img/demo.gif)
+<iframe src="https://giphy.com/embed/dZoICPCAPzUxPNZFYp" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/trippy-psychedelic-tracheotommy-dZoICPCAPzUxPNZFYp">via GIPHY</a></p>
 Check out the [Demo](https://xscode.com) (Add link to your demo version)
 
 ## Table of Contents

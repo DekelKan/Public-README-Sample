@@ -92,9 +92,8 @@ This would also be a good place to include screenshots of your project in action
 | Screenshot_1  | Screenshot_2  | Screenshot_3  |
 | ------------- | ------------- | ------------- |
 |               |               |               |
-|               |               |               |
+| ------------- | ------------- | ------------- |
 
-![Screenshot_1](https://raw.githubusercontent.com/jehna/readme-best-practices/master/sample-logo.png)
 
 ## Built With
 

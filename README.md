@@ -189,4 +189,4 @@ links to developers that are using your project. You can include links like:
  This repository made with :blue_heart: by xs:code
 
  ## Licensing
- This project is licensed under the GPL-3.0 license.
+ This project is licensed under the [GPL-3.0 license](https://github.com/DekelKan/Public-README-Sample/blob/master/LICENSE).

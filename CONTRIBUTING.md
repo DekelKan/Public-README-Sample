@@ -9,7 +9,7 @@
     {
       "login": "DekelKan",
       "name": "Dekel Kan",
-      "avatar_url": "https://avatars3.githubusercontent.com/u/32632542?v=4",
+      "avatar_url": "https://xscode.com/wp-content/uploads/2019/09/dekel-kan-1.png",
       "profile": "https://github.com/DekelKan",
       "contributions": [
         "code"

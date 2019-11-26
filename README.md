@@ -1,8 +1,9 @@
 ![Project Logo](https://xscode.com/wp-content/uploads/2019/09/xscode-logo.png)
 
+***Note** - Add a project logo or a banner - You can use [Canva](https://www.canva.com) to make your own logo and make it look more professional,  or you can pay a few dollars for logo at [Fiverr](https://www.fiverr.com) or similar alternative.
+
 # Public-README-Sample
 This repository is an example for a good public repository README page.
-
 One of the most crucial things in your open source project is the README.md file, make your repository look good, useful, easy to understand and use.
 
 ***Note** - There is a difference between the 'Read me' page of your public repository and the private one, according to the monetization path you've chose.

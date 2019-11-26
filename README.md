@@ -173,8 +173,8 @@ links to developers that are using your project. You can include links like:
   
   ***Note** - You can also use the [Emoji Key](https://allcontributors.org/docs/en/emoji-key) and [all-contributors bot](https://allcontributors.org/docs/en/bot/overview) to automate acknowledging contributors to your projects.
   
-## Autor
-This repository made with :blue_heart: by xs:code
+ ## Autor
+ This repository made with :blue_heart: by xs:code
 
-## Licensing
-This project is licensed under the GNU license.
+ ## Licensing
+ This project is licensed under the GPL-3.0 license.

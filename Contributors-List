@@ -1,18 +1,15 @@
 @all-contributors please add <username> for <contributions>
-
 {
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
-  "contributorsPerLine": 4,
-    "badgeTemplate": "[![Acknowledgments](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#acknowledgments)",
+  "contributorsPerLine": 7,
+  "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
   "contributorTemplate": "<%= avatarBlock %><br /><%= contributions %>",
-  "types": {
-    "custom": {
-      "symbol": "🔭",
-      "description": "A custom contribution type.",
-      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
-    }
-  },
-  "skipCi": "true",
-  "contributors": []
+  "contributors": [contributors-list],
+  "projectName": "Public-README-Sample",
+  "projectOwner": "DekelKan",
+  "repoType": "github",
+  "repoHost": "https://github.com"
 }

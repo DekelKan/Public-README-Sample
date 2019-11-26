@@ -1,4 +1,4 @@
-![Project Logo](https://xscode.com/wp-content/uploads/2019/09/xscode-logo.png)
+![Project Logo](Great-README-300x300.png)
 
 ***Note** - Add a project logo or a banner - You can use [Canva](https://www.canva.com) to make your own logo and make it look more professional,  or you can pay a few dollars for logo at [Fiverr](https://www.fiverr.com) or similar alternative.
 
@@ -89,11 +89,7 @@ This is the section where you would document those requirements.
 Instruct developers on how to use your project after they’ve installed it.
 This would also be a good place to include screenshots of your project in action.
 
-| Screenshot 1  | Screenshot 2  | Screenshot 3  |
-| ------------- | ------------- | ------------- |
-|               |               |               |
-
-![screenshot](Great-README-300x300.png)
+![screenshot](screenshot1.png)
 
 ## Built With
 

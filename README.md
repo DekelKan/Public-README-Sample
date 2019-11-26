@@ -167,7 +167,7 @@ links to developers that are using your project. You can include links like:
   ## Support & Maintenance
   ***Note** -  Support & Maintenance are only available in the Premmisive MIT license version at [xs:code](https://xscode.com)
   
-  ## Acknowledgements
+  ## Contributors
    A big thank you to all these wonderful people who helped make this project come to life and keep on making it better!
    
   

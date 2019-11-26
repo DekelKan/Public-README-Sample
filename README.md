@@ -89,10 +89,8 @@ This is the section where you would document those requirements.
 Instruct developers on how to use your project after they’ve installed it.
 This would also be a good place to include screenshots of your project in action.
 
+<ing src="/Users/dekelkan/Downloads/screenshot1.png">
 ![Screenshot_1](https://raw.githubusercontent.com/jehna/readme-best-practices/master/sample-logo.png)
-![Screenshot_2](https://raw.githubusercontent.com/jehna/readme-best-practices/master/sample-logo.png)
-![Screenshot_3](https://raw.githubusercontent.com/jehna/readme-best-practices/master/sample-logo.png)
-
 
 ## Built With
 

@@ -4,7 +4,7 @@
   "files": ["README.md"],
   "imageSize": 100,
   "contributorsPerLine": 4,
-    "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#acknowledgments)",
+    "badgeTemplate": "[![Acknowledgments](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#acknowledgments)",
   "contributorTemplate": "<%= avatarBlock %><br /><%= contributions %>",
   "types": {
     "custom": {

@@ -1,4 +1,4 @@
-<img src="(/Users/dekelkan/Desktop/Work/xscode/Website/Promotion%20Page/GreatREADME.png)">
+<img src="(Users/dekelkan/Desktop/Work/xscode/Website/Promotion%20Page/GreatREADME.png)">
 
 # Public-README-Sample
 This repository is an example for a good public repository README page.

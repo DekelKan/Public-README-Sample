@@ -32,6 +32,7 @@ Check out [Shields.io](https://Shields.io) to use or make your own badges:
 Make a GIF with any GIF maker / screen recorder and show users how this project works.
 
 ![Demo GIF](https://media.giphy.com/media/dZoICPCAPzUxPNZFYp/giphy-downsized.gif)
+
 Check out the [Demo](https://xscode.com) (Add a real link to your demo version)
 
 ## Table of Contents

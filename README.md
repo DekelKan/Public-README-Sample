@@ -174,8 +174,8 @@ links to developers that are using your project. You can include links like:
 <table>
   <tr>
       <td align="center"><a href="https://github.com/DekelKan"><img src="https://xscode.com/wp-content/uploads/2019/09/dekel-kan-1.png" width="100px;" alt="Dekel Kan"/><br /><sub><b>Dekel Kan</b></sub></a><br /><a href="https://github.com/DekelKan/a.all-contributorsrc/commits?author=DekelKan" title="Code">💻</a> 
-          
-     <a href="https://github.com/chenravid-xs"><img src="https://xscode.com/wp-content/uploads/2019/09/Chen-Ravid.png" width="100px;" alt="Chen Ravid"/><br /><sub><b>chen Ravid</b></sub></a><br /><a href="https://github.com/DekelKan/a.all-contributorsrc/commits?author=DekelKan" title="Code">💻</a> 
+     <td align="center"><a href="https://github.com/chenravid-xs"><img src="https://xscode.com/wp-content/uploads/2019/09/Chen-Ravid.png" width="100px;" alt="Chen Ravid"/><br /><sub><b>Dekel Kan</b></sub></a><br /><a href="https://github.com/DekelKan/a.all-contributorsrc/commits?author=chenravid-xs" title="Code">💻</a> 
+
   </tr>
 </table>
 

@@ -1,4 +1,4 @@
-![Project Logo](https://xscode.com/wp-content/uploads/2019/09/xscode-logo_white.png)
+![Project Logo](https://xscode.com/wp-content/uploads/2019/09/xscode-logo.png)
 
 # Public-README-Sample
 This repository is an example for a good public repository README page.

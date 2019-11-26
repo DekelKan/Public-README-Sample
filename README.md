@@ -139,7 +139,6 @@ Example:
 Public-README-Sample "Some other value"  # Prints "Starting to look like a great README!"
 ```
 
-
 ## Contributing
 Contributions are always welcome!
 If you'd like to contribute, please read our **contributors guidelines**, fork the repository and use a feature
@@ -157,28 +156,29 @@ links to developers that are using your project. You can include links like:
 - Repository: https://github.com/xscode-com/Public-README-Sample
 - Issue tracker: https://github.com/xscode-com/Public-README-Sample/issues
 
- ***Note** - In case of sensitive bugs like security vulnerabilities, please contact
+***Note** - In case of sensitive bugs like security vulnerabilities, please contact
     support@xscode.com directly instead of using issue tracker.
     We value your effort to improve the security of this project!
     
 - Related projects:
   - A link the Premmisive license version of this project: https://github.com/xscode-com/Private-README-Sample
   
-  ## Support & Maintenance
+ ## Support & Maintenance
   ***Note** -  Support & Maintenance are only available in the Premmisive MIT license version at [xs:code](https://xscode.com)
   
-  ## Contributors
+ ## Contributors
    A big thank you to all these wonderful people who helped make this project come to life and keep on making it better!
    
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
 <table>
   <tr>
+      <td align="center"><a href="https://xscode.com"><img src="https://avatars2.githubusercontent.com/u/3534236?v=4" width="100px;" alt="Dekel Kan"/><br /><sub><b>Dekel Kan</b></sub></a><br /><a href="https://github.com/DekelKan/a.all-contributorsrc/commits?author=DekelKan" title="Code">💻</a> 
   </tr>
 </table>
 
   
-  ***Note** - You can also use the [Emoji Key](https://allcontributors.org/docs/en/emoji-key) and [all-contributors bot](https://allcontributors.org/docs/en/bot/overview) to automate acknowledging contributors to your projects.
+ ***Note** - You can also use the [Emoji Key](https://allcontributors.org/docs/en/emoji-key) and [all-contributors bot](https://allcontributors.org/docs/en/bot/overview) to automate acknowledging contributors to your projects.
   
  ## Autor
  This repository made with :blue_heart: by xs:code

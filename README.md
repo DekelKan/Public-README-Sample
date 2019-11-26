@@ -1,4 +1,4 @@
-![Project Logo](https://raw.githubusercontent.com/jehna/readme-best-practices/master/sample-logo.png)
+![Project Logo](https://xscode.com/wp-content/uploads/2019/09/xscode-logo_white.png)
 
 # Public-README-Sample
 This repository is an example for a good public repository README page.

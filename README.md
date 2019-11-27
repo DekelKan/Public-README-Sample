@@ -115,7 +115,8 @@ Here add a list of the features included in the project.
 
 * The main functionality of this project
 * Does another thing
-* Also do this - Available only in the premmisive license version at xs:code
+* Also do this - Available only in the license version at xs:code
+* And more - Available only in the license version at xs:code
 
 ***Note** - Some features are only available in the Premmisive license version at [xs:code](https://xscode.com)
 
@@ -168,7 +169,8 @@ links to developers that are using your project. You can include links like:
   ***Note** -  Support & Maintenance are only available in the Premmisive MIT license version at [xs:code](https://xscode.com)
   
  ## Contributors
-   A big thank you to all these wonderful people who helped make this project come to life and keep on making it better!
+ A Huge thank you to all our contributors for the maintaining and support  this project.
+ Keep on making it better!
    
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->

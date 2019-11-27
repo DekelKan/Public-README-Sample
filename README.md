@@ -175,7 +175,7 @@ links to developers that are using your project. You can include links like:
     We value your effort to improve the security of this project!
     
 - Related projects:
-  - A link the Premmisive license version of this project: https://github.com/xscode-com/Private-README-Sample
+  - A link to the Premmisive MIT license version of this project: https://github.com/xscode-com/Private-README-Sample
   
  ## Support & Maintenance
   ***Note** -  Support & Maintenance are only available in the Premmisive MIT license version at [xs:code](https://xscode.com)

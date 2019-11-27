@@ -33,7 +33,7 @@ Make a GIF with any GIF maker / screen recorder and show users how this project 
 
 ![Demo GIF](https://media.giphy.com/media/12l6XeWlJLgpva/giphy.gif)
 
-> *via @Beedigital.net on GIPHY*
+> *via @Beedigital.net on [GIPHY](https://media.giphy.com/media/sM7c9dEXTQlEc/source.gif)*
 
 Check out the [Demo](https://xscode.com) (Add a real link to your demo version)
 

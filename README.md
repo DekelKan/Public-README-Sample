@@ -7,7 +7,7 @@ This repository is an example for a good public repository README page.
 One of the most crucial things in your open source project is the README.md file, make your repository look good, useful, easy to understand and use.
 
 ***Note** - There is a difference between the 'Read me' page of your public repository and the private one, according to the monetization path you've chose.
-For example, if you choose the 'Dual Licens' model, you should write in your public GPL copyleft license repository what extra features can be found in the private MIT license at [xs:code](https://xscode.com) and of course add a link to it,
+For example, if you choose the 'Dual Licens' model, you should write in your public (GPL copyleft) license repository what extra features can be found in the private MIT license at [xs:code](https://xscode.com) and of course add a link to it,
 another example, if you chose the 'Open Core - Freemium' model, you should also attach a link and  write in the public repository the maintanance and support offers for the Pro version.
 
 ## Static Code Analysis
@@ -192,12 +192,9 @@ links to developers that are using your project. You can include links like:
      <td align="center"><a href="https://github.com/chenravid-xs"><img src="https://xscode.com/wp-content/uploads/2019/09/Chen-Ravid.png" width="100px;" alt="Chen Ravid"/><br /><sub><b>Chen Ravid</b></sub></a><br /><a href="https://github.com/DekelKan/a.all-contributorsrc/commits?author=DekelKan" title="Code">💻</a> 
     <td align="center"><a href="https://github.com/nmohoni"><img src="https://xscode.com/wp-content/uploads/2019/09/Netnael-Mohoni.png" width="100px;" alt="Netnael Mohoni"/><br /><sub><b>Netnael Mohoni</b></sub></a><br /><a href="https://github.com/DekelKan/a.all-contributorsrc/commits?author=DekelKan" title="Code">💻</a>
          <td align="center"><a href="https://twitter.com/Helad11"><img src="https://xscode.com/wp-content/uploads/2019/09/Elad_Adir.gif" width="100px;" alt="Elad Adir"/><br /><sub><b>Elad Adir</b></sub></a><br /><a href="https://github.com/DekelKan/a.all-contributorsrc/commits?author=DekelKan" title="Code">💻</a>
-
-
   </tr>
 </table>
 
-  
  ***Note** - You can also use the [Emoji Key](https://allcontributors.org/docs/en/emoji-key) and [all-contributors bot](https://allcontributors.org/docs/en/bot/overview) to automate acknowledging contributors to your projects.
   
  ## Autor

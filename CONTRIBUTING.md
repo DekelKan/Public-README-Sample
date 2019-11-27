@@ -1,4 +1,4 @@
-@all-contributors please add <username> for <contributions>
+@all-contributors please add < username > for < contributions >
 
 {
   "files": [

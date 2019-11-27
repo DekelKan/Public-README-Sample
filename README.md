@@ -93,9 +93,19 @@ This would also be a good place to include screenshots of your project in action
 
 ![screenshot](screenshot1.png)
 
+## Running tests
+
+Explain how to run the automated tests for this project
+
+```
+Give tests example
+```
+
 ## Built With
 
-@@@@@
+* [AngularJS](https://angularjs.org) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [FetchRSS](http://fetchrss.com) - Used to generate RSS Feeds
 
 If your project needs some additional steps for the developer to build the
 project after some code changes, state them here:

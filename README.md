@@ -155,7 +155,7 @@ Public-README-Sample "Some other value"  # Prints "Starting to look like a great
 
 ## Contributing
 Contributions are always welcome!
-If you'd like to contribute, please read our **contributors guidelines**, fork the repository and use a feature
+If you'd like to contribute, please read our [**contributors guidelines**](https://github.com/DekelKan/Public-README-Sample/blob/master/CONTRIBUTING.md), fork the repository and use a feature
 branch.
 
 ***Note** - Add a link to 'CONTRIBUTING.md' file for deatils on your code of conduct, and the process for submitting pull requests to you.

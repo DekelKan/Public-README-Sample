@@ -31,7 +31,7 @@ Check out [Shields.io](https://Shields.io) to use or make your own badges:
 ## Demo / Demo GIF
 Make a GIF with any GIF maker / screen recorder and show users how this project works.
 
-![Demo GIF](https://media.giphy.com/media/12l6XeWlJLgpva/giphy.gif)
+![Demo GIF](DemoGIF.gif)
 
 > *via @Beedigital.net on [GIPHY](https://media.giphy.com/media/sM7c9dEXTQlEc/source.gif)*
 

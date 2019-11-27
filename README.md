@@ -33,7 +33,7 @@ Make a GIF with any GIF maker / screen recorder and show users how this project 
 
 ![Demo GIF](https://media.giphy.com/media/dZoICPCAPzUxPNZFYp/giphy-downsized.gif)
 
-via @tracheotommy on GIPHY
+> *via @tracheotommy on GIPHY*
 
 Check out the [Demo](https://xscode.com) (Add a real link to your demo version)
 

@@ -40,7 +40,7 @@ Check out the [Demo](https://xscode.com) (Add a real link to your demo version)
 ## Table of Contents
 You can include a table of contents in order to allow other developers to navigate
 
-(especially if you have a long or detailed README).
+(especially if you have a long and detailed README).
 
 
 <!--ts-->
@@ -63,6 +63,7 @@ You can include a table of contents in order to allow other developers to naviga
 
 ## Prerequisites
 Here you should say what prerequisites you need to have in order to use the project.
+
 ### System Requirements:
 * [Ruby](http://www.ruby-lang.org/en/) >= 2.2.5
 * [Rubygems](https://rubygems.org) >= 2.5.4
@@ -71,8 +72,7 @@ Here you should say what prerequisites you need to have in order to use the proj
 
 
 ## Installation
-
-A quick introduction of the minimal setup you need to get a hello world up &
+Step by step instullation explanation, or a quick introduction of the minimal setup you need to get a hello world up &
 running.
 
 ```shell
@@ -94,11 +94,10 @@ This would also be a good place to include screenshots of your project in action
 ![screenshot](screenshot1.png)
 
 ## Running tests
-
 Explain how to run the automated tests for this project
 
 ```
-Give tests example
+Tests example
 ```
 
 ## Built With
@@ -143,7 +142,7 @@ Default: `'default value'`
 
 #### Argument 2
 Type: `Number|Boolean`  
-Default: 100
+Default: 120
 
 State what the argument does and how you can use it. If needed, provide
 an example.

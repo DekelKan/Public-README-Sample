@@ -7,7 +7,7 @@ This repository is an example for a good public repository README page.
 One of the most crucial things in your open source project is the README.md file, make your repository look good, useful, easy to understand and use.
 
 ***Note** - There is a difference between the 'Read me' page of your public repository and the private one, according to the monetization path you've chose.
-For example, if you choose the 'Dual Licens' model, you should write in your public (GPL copyleft) license repository what extra features can be found in the private MIT license at [xs:code](https://xscode.com) and of course add a link to it,
+For example, if you choose the 'Dual Licens' model, you should write in your public (GPL copyleft) license repository what extra features can be found in the private MIT license at [xs:code](https://cp.xscode.com/repositories/8) and of course add a link to it,
 another example, if you chose the 'Open Core - Freemium' model, you should also attach a link and  write in the public repository the maintanance and support offers for the Pro version.
 
 ## Static Code Analysis
@@ -174,10 +174,10 @@ links to developers that are using your project. You can include links like:
     We value your effort to improve the security of this project!
     
 - Related projects:
-  - A link to the Premmisive MIT license version of this project: https://github.com/xscode-com/Private-README-Sample
+  - A link to the Premmisive MIT license version of this project: https://cp.xscode.com/repositories/8
   
  ## Support & Maintenance
-  ***Note** -  Support & Maintenance are only available in the Premmisive MIT license version at [xs:code](https://xscode.com)
+  ***Note** -  Support & Maintenance are only available in the Premmisive MIT license version at [xs:code](https://cp.xscode.com/repositories/8)
   
  ## Contributors
  A Huge thank you to all our contributors for the maintaining and support  this project.

@@ -31,7 +31,7 @@ Check out [Shields.io](https://Shields.io) to use or make your own badges:
 ## Demo / Demo GIF
 Make a GIF with any GIF maker / screen recorder and show users how this project works.
 
-![Demo GIF](Public-README-Sample/Assets/DemoGIF.gif)
+![Demo GIF](Assets/DemoGIF.gif)
 
 > *via @Beedigital.net on [GIPHY](https://media.giphy.com/media/sM7c9dEXTQlEc/source.gif)*
 
@@ -91,7 +91,7 @@ This is the section where you would document those requirements.
 Instruct developers on how to use your project after they’ve installed it.
 This would also be a good place to include screenshots of your project in action.
 
-![screenshot](Public-README-Sample/Assets/screenshot1.png)
+![screenshot](Assets/screenshot1.png)
 
 ## Running tests
 Explain how to run the automated tests for this project

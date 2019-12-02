@@ -1,4 +1,4 @@
-![Project Logo](Public-README-Sample/Assets/valueopensource%20logo%20for%20README.png)
+![Project Logo](Assets/valueopensource%20logo%20for%20README.png)
 
 ***Note** - Add a project logo or a banner - You can use [Canva](https://www.canva.com) to make your own logo and make it look more professional,  or you can pay a few dollars for logo at [Fiverr](https://www.fiverr.com) or similar alternative.
 

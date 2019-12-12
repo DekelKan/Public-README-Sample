@@ -91,7 +91,7 @@ This is the section where you would document those requirements.
 Instruct developers on how to use your project after they’ve installed it.
 This would also be a good place to include screenshots of your project in action.
 
-![screenshot](Assets/screenshot1.png)
+![screenshot](Assets/screenshot-app.jpg)
 
 ## Running tests
 Explain how to run the automated tests for this project

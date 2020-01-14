@@ -11,7 +11,6 @@ For example, if you choose the 'Dual Licens' model, you should write in your pub
 another example, if you chose the 'Open Core - Freemium' model, you should also attach a link and  write in the public repository the maintanance and support offers for the Pro version.
 
 ## Static Code Analysis
-
 Make it easy for users to see the project progress and many other indicators,
 Check out [Shields.io](https://Shields.io) to use or make your own badges:
 
@@ -60,7 +59,6 @@ You can include a table of contents in order to allow other developers to naviga
 <!--te-->
 ***Note** - The table of contents is **Optionally**.
 
-
 ## Prerequisites
 Here you should say what prerequisites you need to have in order to use the project.
 
@@ -69,7 +67,6 @@ Here you should say what prerequisites you need to have in order to use the proj
 * [Rubygems](https://rubygems.org) >= 2.5.4
 * [Rails](http://rubyonrails.org) > 4.3
 * [git](https://git-scm.com) >= 2.24.0
-
 
 ## Installation
 Step by step instullation explanation, or a quick introduction of the minimal setup you need to get a hello world up &
@@ -197,7 +194,7 @@ links to developers that are using your project. You can include links like:
  ***Note** - You can also use the [Emoji Key](https://allcontributors.org/docs/en/emoji-key) and [all-contributors bot](https://allcontributors.org/docs/en/bot/overview) to automate acknowledging contributors to your projects.
   
  ## Autor
- This repository made with :blue_heart: by xs:code
+ This README example is made with :blue_heart: by xs:code
 
  ## Licensing
  This project is licensed under the [GPL-3.0 license](https://github.com/DekelKan/Public-README-Sample/blob/master/LICENSE).

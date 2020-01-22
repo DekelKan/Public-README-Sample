@@ -95,7 +95,7 @@ This would also be a good place to include screenshots of your project in action
 Explain how to run the automated tests for this project
 
 ```
-Tests example
+Tests examples
 ```
 
 ## Built With
@@ -139,7 +139,7 @@ Type: `String`
 Default: `'default value'`
 
 #### Argument 2
-Type: `Number|Boolean`  
+Type: `Number|Boolean`
 Default: 120
 
 State what the argument does and how you can use it. If needed, provide
